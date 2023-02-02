@@ -21,7 +21,7 @@ function Header() {
         <a key={ index } href="#">{car}</a>
       ) ) }
       </Menu>
-      <RightMenu>
+      <RightMenu data-cy="menu-icon">
         <a href="#">Shop</a>
         <a href="#">Tesla Account</a>
         <CustomMenu  onClick={()=>setBurgerStatus(true)}/>

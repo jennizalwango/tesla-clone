@@ -42,8 +42,8 @@ function Home() {
         rightBtnText="Learn More"
       />
       <Section
-        title='SOlar for New Roofs'
-        description="SOlar roofs Costs Less than a New Roof Plus Solar Panels"
+        title='Solar for New Roofs'
+        description="Solar roofs Costs Less than a New Roof Plus Solar Panels"
         backgroundImg="solar-roof.jpg"
         leftBtnText="Order Now"
         rightBtnText="Learn More"
